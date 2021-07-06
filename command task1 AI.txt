@@ -46,7 +46,7 @@ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
 sudo nano ~/.bashrc
 
 at the end of the (bashrc) file add the follwing line
-(source /home/wesam/catkin_ws/devel/setup.bash)
+(source /home/abdulmalik/catkin_ws/devel/setup.bash)
 then 
 ctrl + o
 
